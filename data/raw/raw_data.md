@@ -1,1 +1,0 @@
-[Link to Original Dataset](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
