@@ -208,3 +208,6 @@ __marimo__/
 
 # Raw Dataset (Too big to store on GitHub)
 raw_data.csv
+
+# Processed Dataset (Too big to store on GitHub)
+processed_data.csv
